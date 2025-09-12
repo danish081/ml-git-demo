@@ -1,4 +1,2 @@
-print("danish")
-print("mubashar")
-# im student of ml-git
-print("im student of ml-git")
+# 1st i create a simple code for clear concept of branch this is  main branch
+print("Hello, welcome to the ML Git demo repository!")

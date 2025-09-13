@@ -26,3 +26,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# Simple calculator application with addition and subtraction functions
